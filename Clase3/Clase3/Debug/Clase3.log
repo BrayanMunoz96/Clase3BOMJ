@@ -1,0 +1,4 @@
+﻿  main_prac3_Clase.cpp
+c:\users\rm\documents\2018_agosto_noviembre\lab_compugrafica\clase3\clase3\main_prac3_clase.cpp(351): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  Clase3.vcxproj -> C:\Users\RM\Documents\2018_agosto_noviembre\Lab_CompuGrafica\Clase3\Debug\Clase3.exe
+  Clase3.vcxproj -> C:\Users\RM\Documents\2018_agosto_noviembre\Lab_CompuGrafica\Clase3\Debug\Clase3.pdb (Full PDB)
